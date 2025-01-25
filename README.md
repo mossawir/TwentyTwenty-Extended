@@ -84,10 +84,11 @@ $(function(){
 You can use SCSS to customise the TwentyTwenty styles. All you need to do is make sure you have NPM and Grunt installed. Then, clone the repository and run "npm install" to install all the required Grunt modules. Run "grunt develop" to compile your CSS file (the Gruntfile is also configured to watch for changes):
 
 ```bash
-git clone git@github.com:zurb/twentytwenty.git
+git clone git@github.com:mossawir/TwentyTwenty-Extended.git
 npm install
 grunt develop
 ```
+
 
 All default [Sass](http://sass-lang.com/) variables can be found in `scss/twentytwenty.scss`.
 
