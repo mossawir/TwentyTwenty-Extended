@@ -1,3 +1,5 @@
+## All credit goes to the original developers of the plugin. you can check the original repo here: https://github.com/zurb/twentytwenty
+
 ## Basic usage
 
 Include the javascript and css files.
