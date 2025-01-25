@@ -1,5 +1,5 @@
 ## All credit goes to the original developers of the plugin. you can check the original repo here: https://github.com/zurb/twentytwenty
-## feel free to connect if you any queries
+## feel free to connect if you have any queries
 
 ## Basic usage
 
